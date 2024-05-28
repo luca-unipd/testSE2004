@@ -1,2 +1,2 @@
 # testSE2004
-xxx
+this is the readme file of my project
